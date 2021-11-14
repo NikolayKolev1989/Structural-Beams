@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-color: rgb(203, 221, 224);
+}
+
+header{
+    text-align: center;
+}
+
+.site-description{
+    text-align: center;
+}
+
+.start-buttons{
+    position: absolute;
+    display: table;
+    
+
+}
+.start-buttons button{
+    position: relative;
+    background-color: lightgrey;
+    color: white;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 18px;
+    padding: 10px;
+    
+    
+}
